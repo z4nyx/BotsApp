@@ -109,7 +109,6 @@ exports.adminCommands = [
     "disappear",
     "goodbye",
     "setdp",
-    "tagall",
     "abl",
     "rbl"
 ];
